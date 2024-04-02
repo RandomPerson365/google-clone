@@ -1,1 +1,1 @@
-GOOGLe clone using basic HTML and CSS
+GOOGLE clone using basic HTML and CSS
